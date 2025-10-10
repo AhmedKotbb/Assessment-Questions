@@ -1,0 +1,25 @@
+{
+  "name": "assessment-questions",
+  "version": "1.0.0",
+  "description": "A collection of technical questions from job assessments I have taken, answered in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "ts": "npx ts-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedKotbb/Assessment-Questions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedKotbb/Assessment-Questions/issues"
+  },
+  "homepage": "https://github.com/AhmedKotbb/Assessment-Questions#readme",
+  "devDependencies": {
+    "@types/node": "^24.7.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

@@ -4,7 +4,8 @@
   "description": "A collection of technical questions from job assessments I have taken, answered in Node.js",
   "main": "index.js",
   "scripts": {
-    "ts": "npx ts-node"
+    "ts": "npx ts-node",
+    "js": "node"
   },
   "repository": {
     "type": "git",
